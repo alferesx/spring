@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: su
+Build-Jdk: 10.0.1
+Implementation-Title: eventoapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.eventoapp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/eventoapp
+Created-By: Maven Integration for Eclipse
+
